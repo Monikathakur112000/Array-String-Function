@@ -1,4 +1,5 @@
 import java.util.Scanner
+//Function
 fun sum(a: Int,b: Int) : Int {
     return a + b
 }
@@ -8,7 +9,7 @@ fun main(){
     val b = 20
     println("Sum of a and b is : ${sum(a,b)}")
     print("Enter the text   ")
-
+//Standard input By Scanner and readLine() method
      val d1= readLine()
     println(d1)
 

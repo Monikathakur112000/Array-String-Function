@@ -1,3 +1,4 @@
+// loops in kotlin
 fun main(){
     var a1=2
     while (a1<=10){

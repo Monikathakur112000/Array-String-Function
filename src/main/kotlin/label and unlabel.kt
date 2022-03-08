@@ -1,4 +1,4 @@
-@file:Suppress("DEPRECATED_IDENTITY_EQUALS")
+//Labeled and  Unlabeled break
 
 fun main() {
     val planet= arrayOf("Earth","Sun","Mars","Jupiter","Mercury","Pluto")
@@ -33,15 +33,12 @@ fun main() {
         while(n>0)
                 m--
     }while(m>0)
+//String equality
 val x=10
     val y=12
     val z= 12
     println(x!=y)
     println(x==z)
-    println(x===y)
-    println(x===z)
-    println(x!==y)
-
 
 }
 

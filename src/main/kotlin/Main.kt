@@ -1,5 +1,5 @@
 
-
+//Default and named argument
 fun multiply(a: Int = 2, b : Int=3) :Int {
     return a * b
 }

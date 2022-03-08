@@ -1,4 +1,5 @@
 import java.util.Scanner
+// when as a statement and expression
 fun main(){
     val a = Scanner(System.`in`)
     print("Enter data = ")

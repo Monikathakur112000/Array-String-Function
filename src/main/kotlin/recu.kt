@@ -6,6 +6,7 @@ fun fact(x :Int): Long {
 fun main(){
     println("Factorial is : " + fact(6))
 }*/
+//Tail recursion function
 fun fact( x : Int , y : Int) : Long {
     return if(x==1) y.toLong()
     else fact(x-1,y*x)

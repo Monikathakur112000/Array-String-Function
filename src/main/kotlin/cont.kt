@@ -1,3 +1,4 @@
+//labeled continue
 fun main(){
     var a=4
     outer@while (a>0){
