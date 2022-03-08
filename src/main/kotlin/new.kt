@@ -1,5 +1,5 @@
 
-//Different datatype such as byte
+//Different datatype such as byte and int
 fun main() {
     val a=12
     println(a)
